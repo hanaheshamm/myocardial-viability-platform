@@ -106,6 +106,8 @@ Built using **React**, **Cornerstone.js**, **Django**, and **PyDICOM**.
 
 ### 🔧 Platform Feature Overview  
 ![Platform Features](./assets/features.png)
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/5b014157-f5c3-434d-be33-3e37c4c02a93" />
+
 
 ### 🖼️ DICOM Viewer in Action  
 ![DICOM Viewer](./assets/viewer.png)
