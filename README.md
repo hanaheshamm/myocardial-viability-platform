@@ -122,4 +122,6 @@ Built using **React**, **Cornerstone.js**, **Django**, and **PyDICOM**.
 📽️ *[Insert link to demo or deployment here]*
 ![DICOM Upload](./demo.gif)
 
+▶[Watch demo video](./demo.mp4)
+
 ---
