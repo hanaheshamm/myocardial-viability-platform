@@ -119,9 +119,6 @@ Built using **React**, **Cornerstone.js**, **Django**, and **PyDICOM**.
 
 ## 🎥 Demo
 
-📽️ *[Insert link to demo or deployment here]*
-![DICOM Upload](./demo.gif)
-
-▶[Watch demo video](./demo.mp4)
+https://github.com/user-attachments/assets/2b2a2c00-f510-4c94-a672-37f3eead1234
 
 ---
