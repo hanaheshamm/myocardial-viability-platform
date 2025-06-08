@@ -1,4 +1,4 @@
-# Web-Based Myocardial Viability Assessment Platform via Deep Learningkkkkkkkkkkkkkkk
+# Web-Based Myocardial Viability Assessment Platform via Deep Learning
 **In collaboration with the NIH Bethesda Lab, USA**
 
 A state-of-the-art web platform for **myocardial infarction segmentation** in **Cardiac Magnetic Resonance (CMR)** imaging. Powered by deep learning, this tool offers full AI-assisted analysis combined with a professional-grade DICOM viewer, enabling clinicians to view, edit, quantify, and report infarcted regions with precision.
